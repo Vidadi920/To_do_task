@@ -1,0 +1,53 @@
+.li-active{
+    text-decoration:line-through;
+}
+.ul{
+    font-family: fantasy;
+    font-size: 25px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+body{
+    background-color: gold;
+}
+.btnAdd:hover{
+    background-color: chartreuse;
+}
+.btnAdd:active{
+    background-color: coral;
+}
+.trip{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tutu{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.btnAdd{
+    border-radius: 10px;
+    border-color: darkgoldenrod;
+    font-size: 25px;
+}
+.button{
+    font-size: 20px;
+    border-radius: 10px;
+    color: goldenrod;
+}
+.button:hover{
+    background-color: darkred;
+    
+}
+.inpText{
+    
+    font-size: 20px;
+    background-color: hotpink;
+}
